@@ -1,4 +1,0 @@
-[0/2] Re-checking globbed directories...
-[1/2] Building CXX object examples/tutorial/CMakeFiles/fourth.dir/fourth.cc.o
-[2/2] Linking CXX executable ../build/examples/tutorial/ns3.36.1-fourth-default
-Traced 0 to 2500

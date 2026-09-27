@@ -1,3 +1,0 @@
-[0/2] Re-checking globbed directories...
-ninja: no work to do.
-Traced 0 to 1234
