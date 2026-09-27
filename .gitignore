@@ -1,1 +1,12 @@
+/build/
+/cmake-cache/
+/.lock-ns3_linux_build
 /ns-3.36.1/
+/.config
+/README-TP1-Redes.md
+/bake/
+/build.py
+/constants.py
+/netanim-3.108/
+/pybindgen-0.22.1/
+/util.py
